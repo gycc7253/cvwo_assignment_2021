@@ -1,0 +1,11 @@
+Based on progress made last year, I will consider adding features to my previous assignment.
+Previous assignment AY 19/20 :
+	1. CRUD of todo task
+	2. Only one user allowed for whole portal
+	3. A dropdown menu to select certain task category 
+	4. Deployment on Heroku
+Next AY 20/21:
+	1. Include create account, sign in function
+	2. each user has its individual todo manager
+	3. Include Docker
+	4. 
